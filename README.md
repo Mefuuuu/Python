@@ -40,6 +40,7 @@ Biến là cách bạn lưu trữ dữ liệu trong Python, còn kiểu dữ li�
   - So sánh: `==` (bằng), `!=` (khác), `>`, `<`, `>=`, `<=`.
   - Logic: `and`, `or`, `not`.
 - Chuỗi: Nối chuỗi, cắt chuỗi, định dạng chuỗi (`format()`, f-strings).
+![image](https://github.com/user-attachments/assets/98e6fc7c-ffc3-4e10-a515-cc88ea1ab52c)
 
 ### Ví Dụ
 
