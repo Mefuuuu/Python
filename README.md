@@ -215,6 +215,16 @@ Các kỹ thuật này giúp viết code ngắn gọn, xử lý lỗi hiệu qu�
 - **Xử lý ngoại lệ**: Bắt và xử lý lỗi với `try-except`.
 - **Decorators**: Tăng cường hàm mà không thay đổi mã nguồn.
 
+- **Methods of list**
+ 1. add list element (1 element) .append()
+ 2. add elements .extend()
+ 3. sort list .sort() ỏ sorted()
+ 4. reverse list
+ 5. insert element .insert(index, value)
+ 6. delete element del or .remove(ele)
+ 7. trả về index đầu tiên của element được khớp .index() (ko có error)
+ 8. pop(index) không truyền xóa ele cuối
+
 ### Ví Dụ
 ```python
 # List Comprehension
