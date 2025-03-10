@@ -208,6 +208,8 @@ pip list
 ### Giới Thiệu
 Các kỹ thuật này giúp viết code ngắn gọn, xử lý lỗi hiệu quả, và mở rộng chức năng hàm.
 
+![{AC9ECB07-9CBF-4178-B359-3DE73646576A}](https://github.com/user-attachments/assets/7c9ee8a1-3537-40e0-a7cc-da4c0d9fcc88)
+
 ### Nội Dung Chính
 - **List Comprehension**: Tạo danh sách nhanh chóng.
 - **Xử lý ngoại lệ**: Bắt và xử lý lỗi với `try-except`.
