@@ -301,6 +301,9 @@ say_hi()
 1. Dùng list comprehension để tạo danh sách bình phương các số từ 1 đến 10.
 2. Viết decorator in thời gian thực thi của một hàm.
 
+![image](https://github.com/user-attachments/assets/81e60ae8-24d4-4a70-8e49-46704a3921e6)
+
+
 ---
 
 ## 6. Lập Trình Hướng Đối Tượng (OOP)
